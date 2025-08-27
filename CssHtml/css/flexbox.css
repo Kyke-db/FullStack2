@@ -1,0 +1,11 @@
+.box {
+    width: 150px;
+    height: 150px;
+    border: 1cm solid wheat;
+}
+.flex-container{
+    display: flex;
+    border: 1px solid #ff0000;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
